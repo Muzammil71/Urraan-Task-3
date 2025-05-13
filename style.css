@@ -1,0 +1,70 @@
+.headings {
+    background-color: brown;
+    display: flex;
+    clip-path: polygon(100% 0, 100% 92%, 95% 100%, 0 100%, 0 0);
+}
+.confidential {
+    text-align: left;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.sub {
+    color: white;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.che {
+    text-align: right;
+}
+.app {
+    font-weight: bold;
+    font-size: 25px;
+}
+.forms {
+    padding-top: 60px;
+    padding-left: 100px;
+}
+input[type=text], select {
+    background-color: brown;
+    width: 60%;
+    padding: 10px 16px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid white;
+    box-sizing: border-box;
+}
+.pl {
+    font-size: 9px;
+    color: white;
+}
+input[type="checkbox"] + label {
+    color: white;
+    font-weight: lighter;
+    font-size: 14px;
+    text-align: left;
+}
+.bo {
+    display: inline;
+}
+textarea {
+    background-color: brown;
+    width: 60%;
+    padding: 10px 16px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid white;
+    box-sizing: border-box;
+    font-size: 8px;
+    font-display: left;
+}
+input::placeholder, textarea::placeholder {
+  color: white;
+  opacity: 1;
+}
+button{
+    margin: 0px 0px 60px 0px;
+    height:40px;
+    width: 50%;
+    padding-left: 26px;
+    text-align: center;
+}
