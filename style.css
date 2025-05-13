@@ -12,6 +12,7 @@
     color: white;
     font-size: 70px;
     font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .che {
     text-align: right;
@@ -19,10 +20,12 @@
 .app {
     font-weight: bold;
     font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .forms {
     padding-top: 60px;
     padding-left: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 input[type=text], select {
     background-color: brown;
@@ -34,17 +37,35 @@ input[type=text], select {
     box-sizing: border-box;
 }
 .pl {
-    font-size: 9px;
+    font-size: 6px;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-input[type="checkbox"] + label {
+.Bl {
+    display: flex;
     color: white;
-    font-weight: lighter;
-    font-size: 14px;
-    text-align: left;
+    gap: 98px;
+    
 }
-.bo {
-    display: inline;
+.Btc {
+    display: flex;
+    color: white;
+    gap: 65px;
+}
+.Bsa {
+    display: flex;
+    color: white;
+    gap: 36px;
+}
+.Buot {
+    display: flex;
+    color: white;
+    gap: 38px;
+}
+.Boc {
+    display: flex;
+    color: white;
+    gap: 50px;
 }
 textarea {
     background-color: brown;
@@ -56,15 +77,23 @@ textarea {
     box-sizing: border-box;
     font-size: 8px;
     font-display: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 input::placeholder, textarea::placeholder {
   color: white;
   opacity: 1;
 }
 button{
-    margin: 0px 0px 60px 0px;
+    margin: 20px 0px 60px 0px;
     height:40px;
-    width: 50%;
+    width: 55%;
     padding-left: 26px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mission {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
 }

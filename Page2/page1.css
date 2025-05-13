@@ -1,0 +1,61 @@
+.h-eading {
+    background-color: brown;
+    clip-path: polygon(100% 0, 100% 80%, 90% 100%, 0 100%, 0 0);
+    padding: 50px 0px 100px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lo {
+    margin-left: 300px;
+}
+.red {
+    color: white;
+    font-size: 48px;
+    margin-top: 3px;
+    margin-left: 300px;
+
+}
+.chi {
+    font-size: 22px;
+    margin-top: -39px;
+    margin-left: 300px;
+}
+.th {
+    color: white;
+    font-size: 13px;
+    margin-left: 300px;
+}
+.icon {
+    margin-left: 300px;
+}
+.best-clubs {
+    font-size: 27px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bvb {
+    text-align: center;
+    margin-left: 300px;
+    display: flex;
+    gap: 30px;
+}
+.loi {
+    color: brown;
+    margin-top: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lr {
+    margin-top: -15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Footer {
+    background-color: brown;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    clip-path: polygon(100% 0, 100% 80%, 95% 100%, 0 100%, 0 0);
+    padding: 50px 0px 100px 0px;
+}
+.win {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 300px;
+}
