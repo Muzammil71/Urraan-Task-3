@@ -6,7 +6,9 @@
 .confidential {
     text-align: left;
     padding-top: 200px;
-    padding-left: 100px;
+    padding-left: 140px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
 }
 .sub {
     color: white;
@@ -15,61 +17,74 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .che {
-    text-align: right;
+    padding-left: 390px;
+}
+.chec {
+    padding-left: 375px;
 }
 .app {
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .forms {
-    padding-top: 60px;
-    padding-left: 100px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left: 140px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 input[type=text], select {
     background-color: brown;
-    width: 60%;
+    width: 70%;
     padding: 10px 16px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid white;
     box-sizing: border-box;
 }
+.whi {
+    font-size: 24px;
+    font-weight: bold;
+}
 .pl {
-    font-size: 6px;
+    font-size: 7px;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .Bl {
+    font-size: 12px;
     display: flex;
     color: white;
     gap: 98px;
-    
 }
 .Btc {
+    font-size: 12px;
     display: flex;
     color: white;
-    gap: 65px;
+    gap: 74px;
 }
 .Bsa {
+    font-size: 12px;
     display: flex;
     color: white;
-    gap: 36px;
+    gap: 52px;
 }
 .Buot {
+    font-size: 12px;
     display: flex;
     color: white;
-    gap: 38px;
+    gap: 54px;
 }
 .Boc {
+    font-size: 12px;
     display: flex;
     color: white;
-    gap: 50px;
+    gap: 62px;
 }
 textarea {
     background-color: brown;
-    width: 60%;
+    width: 70%;
+    height: 7%;
     padding: 10px 16px;
     margin: 8px 0;
     display: inline-block;
@@ -85,8 +100,8 @@ input::placeholder, textarea::placeholder {
 }
 button{
     margin: 20px 0px 60px 0px;
-    height:40px;
-    width: 55%;
+    height: 40px;
+    width: 60%;
     padding-left: 26px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -95,5 +110,5 @@ button{
     text-align: center;
     text-decoration: none;
     color: black;
-    font-size: 15px;
+    font-size: 18px;
 }
