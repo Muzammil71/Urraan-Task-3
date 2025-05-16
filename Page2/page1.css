@@ -1,51 +1,59 @@
 .h-eading {
     background-color: brown;
     clip-path: polygon(100% 0, 100% 80%, 90% 100%, 0 100%, 0 0);
-    padding: 100px 0px 150px 0px;
+    padding: 70px 0px 120px 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .lo {
-    margin-left: 300px;
+    margin-left: 130px;
 }
 .red {
     color: white;
-    font-size: 48px;
+    font-size: 50px;
     margin-top: 3px;
-    margin-left: 300px;
-
+    margin-left: 130px;
+    margin-top: -79px;
 }
 .chi {
-    font-size: 22px;
-    margin-top: -39px;
-    margin-left: 300px;
+    font-size: 30px;
+    margin-top: -79px;
+    margin-left: 130px;
 }
 .th {
     color: white;
-    font-size: 13px;
-    margin-left: 300px;
+    font-size: 20px;
+    padding-left: 130px;
+    padding-right: 250px;
 }
 .icon {
-    margin-left: 300px;
+    margin-left: 130px;
+    padding-top: 60px;
 }
 .best-clubs {
+    padding: 70px 0px 120px 0px;
     font-size: 27px;
     font-weight: 900;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .bvb {
     text-align: center;
-    margin-left: 300px;
+    margin-left: 130px;
     display: flex;
-    gap: 30px;
+    gap: 100px;
+    margin-bottom: 30px;
 }
 .loi {
     color: brown;
     margin-top: 2px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: bold;
 }
 .lr {
     margin-top: -15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: small;
 }
 .Footer {
     background-color: brown;
@@ -55,7 +63,7 @@
     padding: 50px 0px 100px 0px;
 }
 .win {
-    font-size: 25px;
+    font-size: 45px;
     font-weight: bold;
-    margin-left: 300px;
+    margin-left: 130px;
 }

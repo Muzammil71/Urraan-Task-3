@@ -16,12 +16,38 @@
     font-weight: bolder;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.che {
-    padding-left: 390px;
+.checkbox-01 {
+    height: 10px;
+    width: 100%;
 }
-.chec {
-    padding-left: 375px;
+.btn {
+  font-size: 6px;
+  margin-left: 0px;
+  display: flex;
+  margin: 0px;
+  margin-top: 0px;
+  float: right;
+  justify-content: center;
+  height: 12px;
+  margin-bottom: 0px;
+  width: 12px;
+  padding: 0px;
+  margin-right: 52px;
 }
+.btn-2 {
+    font-size: 6px;
+    margin-left: 0px;
+    display: flex;
+    margin: 0px;
+    margin-top: 0px;
+    float: right;
+    justify-content: center;
+    height: 12px;
+    margin-bottom: 0px;
+    width: 12px;
+    padding: 0px;
+    margin-right: 64px;
+  }
 .app {
     font-weight: bold;
     font-size: 20px;
@@ -51,6 +77,20 @@ input[type=text], select {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+  .btn-3 {
+    font-size: 6px;
+    margin-left: 0px;
+    display: flex;
+    margin: 0px;
+    margin-top: 5px;
+    float: right;
+    justify-content: center;
+    height: 12px;
+    margin-bottom: 0px;
+    width: 12px;
+    padding: 0px;
+    margin-right: 180px;
+  }
 .Bl {
     font-size: 12px;
     display: flex;
@@ -84,7 +124,7 @@ input[type=text], select {
 textarea {
     background-color: brown;
     width: 70%;
-    height: 7%;
+    height: 15%;
     padding: 10px 16px;
     margin: 8px 0;
     display: inline-block;
@@ -107,8 +147,10 @@ button{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .mission {
+    justify-content: center;
     text-align: center;
     text-decoration: none;
     color: black;
-    font-size: 18px;
+    font-size: 16px;
+    margin-right: 25px;
 }
